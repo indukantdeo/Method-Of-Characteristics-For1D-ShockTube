@@ -4,3 +4,5 @@ This GitHub repository contain course assignment for Unsteady Aerodynamics (AE51
 The calculation of flow parameters in differen zone is included in the assignment jupyternotebook(assignment.ipynb).
 
 ![Intro](/PageIMages/Assignment-1/Assignment-1-1.png)
+
+![PblS](/PageIMages/Assignment-2/Assignment-2-1.png)
